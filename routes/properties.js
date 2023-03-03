@@ -1,3 +1,4 @@
+//properties
 const express = require("express");
 const router = express.Router();
 const properties = require("../controllers/properties");
